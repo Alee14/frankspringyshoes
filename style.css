@@ -1,0 +1,13 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/hack-font/3.3.0/web/hack.css');
+
+body {
+    font-family: Hack, sans-serif;
+}
+
+.main {
+    text-align: center;
+}
+
+.review {
+    text-align: left;
+}
